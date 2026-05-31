@@ -1,7 +1,11 @@
 /* ===============================
     🎨 기본 설정 및 폰트
    =============================== */
-* {
+html {
+  zoom: 1.25;
+}
+
+{
   box-sizing: border-box;
   -webkit-font-smoothing: auto;
   -moz-osx-font-smoothing: auto;
